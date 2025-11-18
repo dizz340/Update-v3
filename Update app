@@ -1,7 +1,7 @@
 {
   "showDialog": true,
-  "appVersionCode": 2,
-  "messageText": "Oops! ⏰ maff waktu habis mohon update versi terbaru .",
+  "appVersionCode": 2019116013,
+  "messageText": "Ups! ⏰ Aplikasi ini telah kedaluwarsa. Anda tidak dapat menggunakannya lagi. Untuk melanjutkan, silakan perbarui ke versi terbaru. .",
   "updateButtonText": "Update",
   "updateButtonLink": "https://wa.me/6285808608116",
   "updateButtonGradientStartColor": "#1E88E5",
