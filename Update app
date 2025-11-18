@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "appVersionCode": 2,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "messageText": "Oops! ⏰ maff waktu habis mohon update versi terbaru .",
   "updateButtonText": "Update",
   "updateButtonLink": "https://wa.me/6285808608116",
   "updateButtonGradientStartColor": "#1E88E5",
